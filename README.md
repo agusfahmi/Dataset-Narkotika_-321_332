@@ -30,7 +30,6 @@ Pengadilan Negeri Tanjung Karang, sebagai salah saty bagian integral dari sistem
 ## Sumber Dataset
 Dataset tersebut dapat diperoleh dari website [mahkamahagung](https://putusan3.mahkamahagung.go.id/search.html?q=narkotika&cat=3c40e48bbab311301a21c445b3c7fe57&court=099031PN354&t_put=2023) . Tujuan utama dari penggunaan dataset di Pengadilan Negeri Tanjung Karang adalah untuk mengekstraksi isi dari setiap putusan yang jumlahnya ada 50. Hasil yang diperoleh dapat dilihat pada susunan direktori berikut :
 
-Root
 - Root
   - Dataset
     - Narkotika.zip
